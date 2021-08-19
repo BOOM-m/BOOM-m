@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BOOM-m
+- 👀 I’m interested in Coding languages
+- 🌱 I’m currently learning c#
